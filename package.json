@@ -1,0 +1,16 @@
+{
+  "name": "event-checkin-system",
+  "version": "1.0.0",
+  "description": "Simple event check-in and attendance system",
+  "main": "src/cli.js",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
