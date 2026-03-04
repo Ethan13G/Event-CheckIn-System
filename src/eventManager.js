@@ -1,3 +1,4 @@
+module.exports = require('./eventManager');
 const { EventService } = require('./services/EventService');
 const { RegistrationService } = require('./services/RegistrationService');
 const { CheckInService } = require('./services/CheckInService');
